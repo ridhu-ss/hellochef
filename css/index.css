@@ -213,3 +213,13 @@ position: relative;
     letter-spacing: -2;
 }
 
+.learn button{
+    padding: 1rem 2.5rem;
+    background-color: #e42a12;
+    border: none;
+    font-size: 1rem;
+    border-radius: 50px;
+    color: white;
+    font-weight: 600;
+}
+
